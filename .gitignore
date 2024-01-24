@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# Next.js
+/.next/
+
+# Cache files
+/.cache/
+public/sw.js
+
+# Build files
+/out/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
